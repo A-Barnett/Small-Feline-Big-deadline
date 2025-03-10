@@ -1,7 +1,7 @@
 # Small-Feline-Big-deadline
 CSC8503 - Advanced Game Technologies - C++/OpenGL
 This game was created in C++ using OpenGL rendering and a basic codebase provided by Newcastle University. During the development of this game, I created most of the physics simulations and AI behavior shown in-game. 
-This ranged from programming impulse calculations and handling multiple collision types, to creating finite state machines and pushdown automata. 
+This ranged from programming impulse calculations and handling multiple collision types, to creating finite state machines and pushdown automata.
 This project focused entirely on gameplay programming, and not graphical features, clearly.
 
 
